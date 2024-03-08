@@ -26,6 +26,7 @@ It consist of 7 classes as:
     4 barred_spiral
     5 unbarred_spiral
     6 irregular
-
+    
+Dr. Ajay Waghumbare [Author:March 2024]
     
 
